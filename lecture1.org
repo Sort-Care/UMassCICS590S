@@ -1,0 +1,59 @@
+* Schedule
+Note: This schedule is tentative (under construction!) and subject to change, especially early in the semester.
+
+September 6 – Course introduction & overview:  concurrency, parallelism, locality
+September 8 – Parallelism: Threads, message-passing
+September 13 – Parallelism, continued
+paper: Amdahl’s Law, Gustafson’s Law, and Discussion
+September 15 – Fault-tolerance
+paper: Why Do Computers Stop and What Can Be Done About It?
+Project 1 assigned, due September 22
+Note: September 19 = last day to drop with no record
+September 20 – Large-Scale Analytics: MapReduce / Hadoop
+paper:  MapReduce: Simplified Data Processing on Large Clusters
+September 22 – no class
+Project 1 due
+September 27 -Distributed computing, Cloud Computing, “Big Data”
+papers: MapReduce and Parallel DBMSs: Friends or Foes?, MapReduce: A flexible Data Processing Tool
+September 29 – Databases, continued: SQL, database architectures, optimization, consistency
+October 4 – Graph Analytics (Pregel, Arabseque): guest lecturer Marco Serafini
+papers: Pregel: A System for Large-Scale Graph Processing
+Arabesque: A System for Distributed Graph Mining
+October 6 – no class
+October 11 – no class (UMass Monday)
+October 13 -“Databases”: NoSQL, key-value stores, consistent hashing (Redis, MongoDB)
+Note: October 17 = last day to drop with DR (graduate)
+October 18 – Optimizing MapReduce: FlumeJava
+paper: FlumeJava: Easy, Efficient Data-Parallel Pipelines
+October 20 – Midterm
+Note: Last day to drop with W
+October 25 – Storage: Google File System / HDFS
+paper: The Google File System
+October 27 – BigTable
+paper:  Bigtable: A Distributed Storage System for Structured Data
+November 1 – Parallel Processing: Spark
+paper: Resilient Distributed Datasets: A Fault-Tolerant Abstraction for In-Memory Cluster Computing
+November 3 – no class
+November 8 – Midterm review
+November 10 – Midterm review
+Performance: Making Sense
+paper: Making Sense of Performance in Data Analytics Frameworks
+November 15 – Performance, Scalability
+paper: Scalability! But at what COST?
+November 17 – Distributed Shared Memory
+paper: Latency-Tolerant Software Distributed Shared Memory
+
+November 22 – no class (Thanksgiving)
+November 24 – no class (Thanksgiving)
+November 29 -Data Warehousing
+paper: Hive – A Warehousing Solution Over a Map-Reduce Framework
+December 1 – Hybrid Systems (SQL + Big Data)
+paper:  Spark SQL: Relational Data Processing in Spark
+December 3 – Large-scale Key-Value stores
+paper: Dynamo: Amazon’s Highly Available Key-value Store
+December 6 – continued
+December 8 – Intro to machine learning systems
+paper: TensorFlow: A System for Large-Scale Machine Learning
+December 13 – TensorFlow
+Project 3 due
+December 14: Final Exam
